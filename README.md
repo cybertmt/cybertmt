@@ -2,7 +2,7 @@
 - 👀 I’m interested in Go practice
 - 🌱 I’m currently learning Go, linux, html, css
 - ✨ I’m looking to collaborate on some Go projects
-- 📫 How to reach me ... around here somewhere or just send message to me@telegram
+- 📫 How to reach me -> me@telegram
 
 <!--
 **cybertmt/cybertmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
