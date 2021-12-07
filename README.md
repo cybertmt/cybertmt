@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cybertmt
-- 👀 I’m interested in Go practice
-- 🌱 I’m currently learning Go, linux, html, css
-- ✨ I’m looking to collaborate on some Go projects
+-  Hi, I’m @cybertmt
+-  I’m interested in Go practice
+-  I’m currently learning Go, linux, html, css
+-  I’m looking to collaborate on some Go projects
 - 📫 How to reach me -> me@telegram
 
 <!--
