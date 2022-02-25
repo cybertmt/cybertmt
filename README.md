@@ -1,5 +1,5 @@
--  Hello adventurer
--  Interested in Go practice
+-  Hello adventurer!
+-  I'm interested in Go practice
 -  Currently learning Go, CI/CD, *nix
 -  Looking for collaboration on some Go projects
 - 📫 Contact cybertmt@telegram
