@@ -1,4 +1,4 @@
--  Hi, I’m @cybertmt
+-  Hello adventurer
 -  Interested in Go practice
 -  Currently learning Go, CI/CD, *nix
 -  Looking for collaboration on some Go projects
