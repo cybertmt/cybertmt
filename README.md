@@ -1,6 +1,6 @@
 -  Hello adventurer!
 -  I'm interested in Go practice
--  Currently learning Go, CI/CD, *nix
+-  Currently learning Go, microservice architecture, CI/CD, *nix
 -  Looking for some Go Backend project collaboration
 - 📫 Contact cybertmt@telegram
 
