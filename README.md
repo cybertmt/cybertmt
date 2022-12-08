@@ -1,7 +1,7 @@
 -  Hello adventurer!
 -  I'm interested in Go practice
 -  Currently learning Go, CI/CD, *nix
--  Looking for some Go project collaboration
+-  Looking for some Go Backend project collaboration
 - 📫 Contact cybertmt@telegram
 
 <!--
